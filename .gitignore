@@ -1,0 +1,28 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+.ruff_cache/
+
+# Editores y sistema
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Registros y temporales
+*.log
+*.tmp
+*.bak
+resultados_tmp/
+
+# Entregables pesados que no forman parte del repositorio
+# (las figuras fig-3.png ... fig-10.png sí se versionan)
+resultados_tmp/

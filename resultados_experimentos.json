@@ -1,0 +1,566 @@
+{
+  "generado": "2026-11-19T21:57:42",
+  "modo": "quick",
+  "corridas": 62,
+  "tiempo_total_s": 8.26,
+  "resultados": [
+    {
+      "problema": "Sphere",
+      "algoritmo": "GA",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 0.08297373138950175,
+      "evaluaciones": 1560,
+      "tiempo_s": 0.1091
+    },
+    {
+      "problema": "Rastrigin",
+      "algoritmo": "GA",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 22.196525527553433,
+      "evaluaciones": 1560,
+      "tiempo_s": 0.1093
+    },
+    {
+      "problema": "Sphere",
+      "algoritmo": "GA",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 0.03985905728751055,
+      "evaluaciones": 904,
+      "tiempo_s": 0.0591
+    },
+    {
+      "problema": "Sphere",
+      "algoritmo": "GA",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 0.07125550316190511,
+      "evaluaciones": 904,
+      "tiempo_s": 0.0587
+    },
+    {
+      "problema": "Sphere",
+      "algoritmo": "PSO",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 0.021820135851724466,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0246
+    },
+    {
+      "problema": "Sphere",
+      "algoritmo": "PSO",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 0.04209820504304252,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0242
+    },
+    {
+      "problema": "Sphere",
+      "algoritmo": "AIS",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 0.18586977845683966,
+      "evaluaciones": 1528,
+      "tiempo_s": 0.0305
+    },
+    {
+      "problema": "Sphere",
+      "algoritmo": "AIS",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 0.0813871245354977,
+      "evaluaciones": 1528,
+      "tiempo_s": 0.0303
+    },
+    {
+      "problema": "Sphere",
+      "algoritmo": "DE",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 0.17098080612698138,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0305
+    },
+    {
+      "problema": "Sphere",
+      "algoritmo": "DE",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 0.03307601538820903,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0307
+    },
+    {
+      "problema": "Rastrigin",
+      "algoritmo": "GA",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 25.183300033099172,
+      "evaluaciones": 904,
+      "tiempo_s": 0.0665
+    },
+    {
+      "problema": "Rastrigin",
+      "algoritmo": "GA",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 21.486454773374362,
+      "evaluaciones": 904,
+      "tiempo_s": 0.0628
+    },
+    {
+      "problema": "Rastrigin",
+      "algoritmo": "PSO",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 28.840404206130017,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0273
+    },
+    {
+      "problema": "Rastrigin",
+      "algoritmo": "PSO",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 17.88047216775513,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0272
+    },
+    {
+      "problema": "Rastrigin",
+      "algoritmo": "AIS",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 11.761102541130569,
+      "evaluaciones": 1528,
+      "tiempo_s": 0.0355
+    },
+    {
+      "problema": "Rastrigin",
+      "algoritmo": "AIS",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 8.845040036495902,
+      "evaluaciones": 1528,
+      "tiempo_s": 0.0395
+    },
+    {
+      "problema": "Rastrigin",
+      "algoritmo": "DE",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 63.98218794168472,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0351
+    },
+    {
+      "problema": "Rastrigin",
+      "algoritmo": "DE",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 62.65550492526681,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0356
+    },
+    {
+      "problema": "OneMax",
+      "algoritmo": "GA",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 40.0,
+      "evaluaciones": 904,
+      "tiempo_s": 0.0412
+    },
+    {
+      "problema": "OneMax",
+      "algoritmo": "GA",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 40.0,
+      "evaluaciones": 904,
+      "tiempo_s": 0.0378
+    },
+    {
+      "problema": "OneMax",
+      "algoritmo": "PSO",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 35.0,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0291
+    },
+    {
+      "problema": "OneMax",
+      "algoritmo": "PSO",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 35.0,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0294
+    },
+    {
+      "problema": "OneMax",
+      "algoritmo": "AIS",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 40.0,
+      "evaluaciones": 1528,
+      "tiempo_s": 0.0232
+    },
+    {
+      "problema": "OneMax",
+      "algoritmo": "AIS",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 40.0,
+      "evaluaciones": 1528,
+      "tiempo_s": 0.0232
+    },
+    {
+      "problema": "OneMax",
+      "algoritmo": "DE",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 36.0,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0379
+    },
+    {
+      "problema": "OneMax",
+      "algoritmo": "DE",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 35.0,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0379
+    },
+    {
+      "problema": "Mochila 0-1",
+      "algoritmo": "GA",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 467.0,
+      "evaluaciones": 904,
+      "tiempo_s": 0.0424
+    },
+    {
+      "problema": "Mochila 0-1",
+      "algoritmo": "GA",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 455.0,
+      "evaluaciones": 904,
+      "tiempo_s": 0.0404
+    },
+    {
+      "problema": "Mochila 0-1",
+      "algoritmo": "PSO",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 430.0,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0302
+    },
+    {
+      "problema": "Mochila 0-1",
+      "algoritmo": "PSO",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 431.0,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0301
+    },
+    {
+      "problema": "Mochila 0-1",
+      "algoritmo": "AIS",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 454.0,
+      "evaluaciones": 1528,
+      "tiempo_s": 0.0251
+    },
+    {
+      "problema": "Mochila 0-1",
+      "algoritmo": "AIS",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 455.0,
+      "evaluaciones": 1528,
+      "tiempo_s": 0.0253
+    },
+    {
+      "problema": "Mochila 0-1",
+      "algoritmo": "DE",
+      "semilla": 2026,
+      "iteraciones": 40,
+      "mejor_objetivo": 417.0,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0416
+    },
+    {
+      "problema": "Mochila 0-1",
+      "algoritmo": "DE",
+      "semilla": 2027,
+      "iteraciones": 40,
+      "mejor_objetivo": 412.0,
+      "evaluaciones": 1008,
+      "tiempo_s": 0.0391
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "GA",
+      "semilla": 3000,
+      "iteraciones": 40,
+      "mejor_objetivo": 839.3731803807693,
+      "evaluaciones": 740,
+      "tiempo_s": 0.0974
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "GA",
+      "semilla": 3001,
+      "iteraciones": 40,
+      "mejor_objetivo": 826.3192540120281,
+      "evaluaciones": 740,
+      "tiempo_s": 0.0944
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "ACO",
+      "semilla": 3000,
+      "iteraciones": 40,
+      "mejor_objetivo": 437.12863777021414,
+      "evaluaciones": 820,
+      "tiempo_s": 0.4381
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "ACO",
+      "semilla": 3001,
+      "iteraciones": 40,
+      "mejor_objetivo": 437.12863777021414,
+      "evaluaciones": 820,
+      "tiempo_s": 0.4379
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "PSO",
+      "semilla": 3000,
+      "iteraciones": 40,
+      "mejor_objetivo": 565.0936273600074,
+      "evaluaciones": 840,
+      "tiempo_s": 0.0684
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "PSO",
+      "semilla": 3001,
+      "iteraciones": 40,
+      "mejor_objetivo": 509.37837161371306,
+      "evaluaciones": 840,
+      "tiempo_s": 0.0671
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "AIS",
+      "semilla": 3000,
+      "iteraciones": 40,
+      "mejor_objetivo": 730.000827601653,
+      "evaluaciones": 1800,
+      "tiempo_s": 0.1036
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "AIS",
+      "semilla": 3001,
+      "iteraciones": 40,
+      "mejor_objetivo": 695.2642453767434,
+      "evaluaciones": 1800,
+      "tiempo_s": 0.1036
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "DE",
+      "semilla": 3000,
+      "iteraciones": 40,
+      "mejor_objetivo": 653.858533370776,
+      "evaluaciones": 840,
+      "tiempo_s": 0.0774
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "DE",
+      "semilla": 3001,
+      "iteraciones": 40,
+      "mejor_objetivo": 594.8235763937099,
+      "evaluaciones": 840,
+      "tiempo_s": 0.0779
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "GA",
+      "semilla": 4000,
+      "iteraciones": 40,
+      "mejor_objetivo": 101.52051800483602,
+      "evaluaciones": 740,
+      "tiempo_s": 0.0858
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "GA",
+      "semilla": 4001,
+      "iteraciones": 40,
+      "mejor_objetivo": 92.63552928857366,
+      "evaluaciones": 740,
+      "tiempo_s": 0.0856
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "ACO",
+      "semilla": 4000,
+      "iteraciones": 40,
+      "mejor_objetivo": 93.46114001856093,
+      "evaluaciones": 820,
+      "tiempo_s": 0.2682
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "ACO",
+      "semilla": 4001,
+      "iteraciones": 40,
+      "mejor_objetivo": 84.4705938771454,
+      "evaluaciones": 820,
+      "tiempo_s": 0.2648
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "PSO",
+      "semilla": 4000,
+      "iteraciones": 40,
+      "mejor_objetivo": 88.70897293894858,
+      "evaluaciones": 840,
+      "tiempo_s": 0.0656
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "PSO",
+      "semilla": 4001,
+      "iteraciones": 40,
+      "mejor_objetivo": 105.6947416370614,
+      "evaluaciones": 840,
+      "tiempo_s": 0.0647
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "AIS",
+      "semilla": 4000,
+      "iteraciones": 40,
+      "mejor_objetivo": 89.70083059711732,
+      "evaluaciones": 1800,
+      "tiempo_s": 0.0915
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "AIS",
+      "semilla": 4001,
+      "iteraciones": 40,
+      "mejor_objetivo": 90.04404607249138,
+      "evaluaciones": 1800,
+      "tiempo_s": 0.0911
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "DE",
+      "semilla": 4000,
+      "iteraciones": 40,
+      "mejor_objetivo": 88.03717217149386,
+      "evaluaciones": 840,
+      "tiempo_s": 0.0764
+    },
+    {
+      "problema": "Rutas de reparto Zapopan",
+      "algoritmo": "DE",
+      "semilla": 4001,
+      "iteraciones": 40,
+      "mejor_objetivo": 88.22647282030613,
+      "evaluaciones": 840,
+      "tiempo_s": 0.0742
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "GA",
+      "semilla": 5000,
+      "iteraciones": 30,
+      "mejor_objetivo": 396.23804461980166,
+      "evaluaciones": 715,
+      "tiempo_s": 0.0979
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "GA",
+      "semilla": 5001,
+      "iteraciones": 30,
+      "mejor_objetivo": 373.1544287033275,
+      "evaluaciones": 715,
+      "tiempo_s": 0.0904
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "ACO",
+      "semilla": 5000,
+      "iteraciones": 30,
+      "mejor_objetivo": 313.41442885474146,
+      "evaluaciones": 620,
+      "tiempo_s": 0.1941
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "ACO",
+      "semilla": 5001,
+      "iteraciones": 30,
+      "mejor_objetivo": 313.41442885474146,
+      "evaluaciones": 620,
+      "tiempo_s": 0.1924
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "GA",
+      "semilla": 5000,
+      "iteraciones": 30,
+      "mejor_objetivo": 821.1141860316224,
+      "evaluaciones": 715,
+      "tiempo_s": 0.1032
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "GA",
+      "semilla": 5001,
+      "iteraciones": 30,
+      "mejor_objetivo": 813.8175889916715,
+      "evaluaciones": 715,
+      "tiempo_s": 0.1006
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "ACO",
+      "semilla": 5000,
+      "iteraciones": 30,
+      "mejor_objetivo": 437.12863777021414,
+      "evaluaciones": 620,
+      "tiempo_s": 0.334
+    },
+    {
+      "problema": "TSP (agente viajero)",
+      "algoritmo": "ACO",
+      "semilla": 5001,
+      "iteraciones": 30,
+      "mejor_objetivo": 437.12863777021414,
+      "evaluaciones": 620,
+      "tiempo_s": 0.3454
+    }
+  ]
+}

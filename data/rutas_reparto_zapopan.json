@@ -1,0 +1,27 @@
+{
+  "ciudad": "Zapopan / Guadalajara, Jalisco",
+  "descripcion": "Rutas de reparto locales de última milla desde una base CEDIS hacia 11 puntos de entrega.",
+  "unidad_carga": "kg",
+  "factor_vial": 1.25,
+  "q_max_kg": 180,
+  "costo_fijo_ruta_km": 8.0,
+  "deposito": {
+    "id": 0,
+    "nombre": "Base CEDIS Zapopan",
+    "lat": 20.6335,
+    "lon": -103.443
+  },
+  "nodos": [
+    {"id": 1, "nombre": "Plaza del Sol", "lat": 20.6511, "lon": -103.402, "demanda_kg": 22},
+    {"id": 2, "nombre": "La Gran Plaza", "lat": 20.6733, "lon": -103.4158, "demanda_kg": 18},
+    {"id": 3, "nombre": "Andares", "lat": 20.7109, "lon": -103.4118, "demanda_kg": 15},
+    {"id": 4, "nombre": "Puerta de Hierro", "lat": 20.7356, "lon": -103.4048, "demanda_kg": 25},
+    {"id": 5, "nombre": "Zapopan Centro", "lat": 20.7212, "lon": -103.3917, "demanda_kg": 14},
+    {"id": 6, "nombre": "Tesistán", "lat": 20.7981, "lon": -103.4747, "demanda_kg": 20},
+    {"id": 7, "nombre": "Ciudad Granja", "lat": 20.6861, "lon": -103.4573, "demanda_kg": 16},
+    {"id": 8, "nombre": "Chapalita", "lat": 20.6659, "lon": -103.4054, "demanda_kg": 12},
+    {"id": 9, "nombre": "Lomas del Camichín", "lat": 20.7003, "lon": -103.4699, "demanda_kg": 24},
+    {"id": 10, "nombre": "Jardines del Valle", "lat": 20.6839, "lon": -103.4251, "demanda_kg": 18},
+    {"id": 11, "nombre": "Constitución", "lat": 20.6532, "lon": -103.4588, "demanda_kg": 10}
+  ]
+}
