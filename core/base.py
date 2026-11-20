@@ -594,6 +594,10 @@ class MetaheuristicAlgorithm(ABC):
         should_stop: Callable[[], bool] | None,
         should_pause: Callable[[], bool] | None,
     ) -> None:
+        # Breve retraso para que el event de pausa se haya propagado
+        # entre hilos antes de empezar a esperar.
+        if should_pause is not None:
+            time.sleep(0.05)
         while should_pause is not None and should_pause():
             if should_stop is not None and should_stop():
                 return
